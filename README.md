@@ -1,5 +1,5 @@
 # Statisical_tests
-In this repositry I am publishing codes for data vidulization and several statisical test such as:
+In this repositry I am publishing codes for data visualization and several statisical test such as:
 - levenes test
 - T-test
 - Z test
