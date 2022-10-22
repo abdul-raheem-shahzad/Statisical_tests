@@ -9,4 +9,4 @@ In this repositry I am publishing codes for data vidulization and several statis
 - Runs_Test
 = Tuckey_HSD
 
-in Deaugustino's file I ma publishing code for Normailty test
+in Deaugustino's file I ma publishing code for Normailty test and Anderson Darlings test
